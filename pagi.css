@@ -1,0 +1,40 @@
+#maindiv
+{
+    background-color: aqua;
+    width:75%;
+    height: 75%;
+    
+    
+}
+#div1
+{
+    display: flex;
+    justify-content: justify;
+    overflow: scroll;
+    background-color: green;
+   
+    
+}
+
+#div1 a
+
+{
+    
+padding: 8px 16px;
+float:left;
+background-color: chocolate;
+border-radius: 5px;
+color:brown;
+margin-top: 20%; 
+margin-left: 2px;
+
+}
+
+#screen
+{
+    width:500px;
+    height: 300px;
+    color: red;
+    
+}
+    
